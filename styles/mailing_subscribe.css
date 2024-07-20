@@ -1,0 +1,63 @@
+.mailing_subscribe {
+    color: #1B3764;
+    background-color: #FFCA42;
+    border-radius: 5px;
+    box-shadow: 0px 0px 19px 0px #0000002E;
+    max-width: 70vw;
+    margin: 0 auto;
+    padding: 96px 10.4vw 115px;
+}
+
+.mailing_subscribe__header {
+    font-family: Cardo;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 50.4px;
+    text-align: center;
+    margin: 0 0 23px;
+}
+
+.mailing_subscribe__text {
+    font-size: 18px;
+    line-height: 28.5px;
+    text-align: center;
+}
+
+.mailing_subscribe__input {
+    padding: 20px 0 20px 40px;
+    width: calc(140% / 3);
+    min-width: 328px;
+    height: 70px;
+    border: solid 1px #DCE1E9;
+    font-family: Inter;
+    font-size: 18px;
+    line-height: 30.6px;
+    color: #B4C7E7;
+    letter-spacing: 0.18000000715255737px;
+}
+
+.mailing_subscribe__button {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30.6px;
+    letter-spacing: 0.18000000715255737px;
+    text-align: center;
+    background-color: #1B3764;
+    color: #fff;
+    height: 70px;
+    margin: 0;
+    padding: 18px calc(70% / 6);
+    min-width: 328px;
+}
+
+.mailing_subscribe__short_line {
+    margin: 0 auto 25px;
+}
+
+.mailing_subscribe__form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+}

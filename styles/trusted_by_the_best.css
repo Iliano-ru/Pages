@@ -1,0 +1,47 @@
+.trusted_by_the_best {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 56px;
+}
+
+.trusted_by_the_best__header {
+    font-family: Cardo;
+    font-size: 24px;
+    line-height: 28.8px;
+    color: #1B3764;
+    text-align: center;
+    margin: 0 0 16px;
+}
+
+.trusted_by_the_best__text {
+    font-size: 19px;
+    line-height: 28.5px;
+    text-align: center;
+    margin: 0;
+}
+
+.trusted_by_the_best__img {
+    margin: 0 auto 15px;
+}
+
+.section_4__header {
+    font-family: Cardo;
+    font-size: 42px;
+    line-height: 50.4px;
+    color: #1B3764;
+    margin: 0 0 23px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.section_4__short_line {
+    margin: 0 auto 50px;
+    text-align: center;
+}
+
+.trusted_by_the_best__corp_card {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 0;
+}

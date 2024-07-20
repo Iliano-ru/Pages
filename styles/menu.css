@@ -1,0 +1,51 @@
+.menu__button {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.logo {
+    margin-right: 35px;
+}
+
+.socs {
+    margin: 12px auto 12px 0;
+}
+
+
+
+.menu {
+    width: 90vw;
+    margin: 22px 0 121px 0;
+    max-width: 1300px;
+    min-width: 800px;
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.menu__link {
+    font-size: 17px;
+    line-height: 25.5px;
+    letter-spacing: 0.17000000178813934px;
+    margin: 23px 3.3vw 20px 0;
+    text-decoration: none;
+    color: #F6F8FC;
+}
+
+.menu__link:hover {
+    text-decoration: underline;
+}
+
+.menu__home {
+    color: #FFCA42;
+}
+
+
+
+.menu__order {
+    width: 222px;
+    height: 66px;
+}

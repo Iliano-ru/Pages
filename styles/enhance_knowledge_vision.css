@@ -1,0 +1,83 @@
+.enhance_knowledge_vision {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px 30px;
+    margin: 0 0 70px;
+}
+
+.chapter_card {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 635px;
+    background-color: #fff;
+}
+
+.chapter_card__header {
+    font-family: Cardo;
+    font-size: 24px;
+    line-height: 28.8px;
+    color: #1B3764;
+}
+
+.chapter_card__text {
+    font-size: 19px;
+    line-height: 32.3px;
+    color: #969AA0;
+}
+
+.chapter_card__circle {
+    margin: 6px 10px 9px;
+}
+
+.chapter_card_stats {
+
+    font-size: 17px;
+    line-height: 27px;
+    color: #969AA0;
+    display: flex;
+}
+
+.stats__name {
+    font-family: Cardo;
+    font-size: 22px;
+    line-height: 30.8px;
+    color: #1B3764;
+    margin: 0 10px 0 0;
+}
+
+.chapter_card_stats__text {
+    margin: 0 45px 0 0;
+}
+
+.enhance_knowledge_vision__text {
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 28.5px;
+    text-align: center;
+    color: #969AA0;
+    text-decoration: none;
+    display: block;
+}
+
+.enhance_knowledge_vision__text:hover {
+    text-decoration: underline;
+}
+
+.enhance_knowledge_vision__blue_text {
+    color: #1B3764;
+    letter-spacing: 0.1899999976158142px;
+    text-align: center;
+}
+
+.enhance_knowledge_vision__button {
+    display: block;
+    margin: 0 auto 34px;
+    width: 429px;
+    height: 76px;
+    font-family: Cardo;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 28.5px;
+    letter-spacing: 0.5699999928474426px;
+}

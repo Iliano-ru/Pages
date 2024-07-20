@@ -1,0 +1,50 @@
+.feedbacks {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 435px;
+}
+
+.section_8__left_block {
+    margin: 101px 0 84px;
+}
+
+.feedbacks__header {
+    font-family: Cardo;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 50.4px;
+    color: #1B3764;
+    margin: 0 0 23px;
+}
+
+.feedbacks__short_line {
+    margin: 0 0 33px;
+}
+
+.feedbacks__text {
+    font-size: 19px;
+    color: #969AA0;
+    line-height: 34.2px;
+    margin: 0 0 22px;
+}
+
+
+
+.rate_bar__nums {
+    font-family: Cardo;
+    font-size: 22px;
+    line-height: 26.4px;
+    color: #1B3764;
+    margin: 0;
+}
+
+.feedbacks__end {
+    font-size: 18px;
+    line-height: 28.5px;
+    color: #1B3764;
+    margin: 0 50px 0 0;
+}
+
+.feedbacks__rate_bar {
+    margin: 3.5px 10px 10px 0;
+}
